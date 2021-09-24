@@ -1,0 +1,9 @@
+1, 54677, 39, M, HeartDisease 
+2, 54602, 32, M, Flu
+3, 54678, 40, F, Bronchitis
+4, 54905, 53, M, Gastritis
+5, 54909, 62, F, HeartDisease    
+6, 54906, 57, M, Cancer
+7, 54605, 40, F, Flu
+8, 54673, 46, M, HIV
+9, 54607, 40, F, Cancer    
